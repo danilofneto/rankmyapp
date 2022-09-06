@@ -1,6 +1,6 @@
 # B4 Bank APP Report
 
-![question22](/images/folder.png)
+![question22](/images/app.jpg)
 
 O cliente B4 Bank é um aplicativo do setor financeiro que tem como objetivo conseguir uma maior visibilidade e retenção de usuários de forma orgânica.
 
