@@ -84,7 +84,7 @@ Hipótese falsa. As instalações são maiores nos dias de semana (Terça, quart
 ![image](/images/bar_instalacoes_semana.png)
 
 # Conclusão
-Com a análise dos dados foi possível identificar que o canal de aquisição Organic apresenta os maiores indicadores em todas as comparações com os demais canais, porém é possível melhor os indicadores e com o apoio da análise os times de negócio consiguirão tomar melhores decisões.
+Com a análise dos dados foi possível identificar que o canal de aquisição Organic apresenta os maiores indicadores em todas as comparações com os demais canais, porém é possível melhor os indicadores e com o apoio da análise os times de negócio conseguirão tomar melhores decisões.
 
 # Próximos passos de evolução:
 - Criar novas features.
